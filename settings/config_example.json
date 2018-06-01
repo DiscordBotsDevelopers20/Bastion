@@ -1,11 +1,11 @@
 {
   "shardCount": 1,
-  "prefix": [ "#!" ],
+  "prefix": [ "-" ],
   "status": "online",
   "game": {
     "type": "Playing",
     "name": [
-      "with Ganymede"
+      "-HELP | I See You !"
     ],
     "url": "",
     "interval": 60
